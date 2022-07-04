@@ -41,3 +41,13 @@ section {
     background-repeat: no-repeat;
 
 }
+
+
+
+.middle-header-2 {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 5%;
+
+}
