@@ -9,12 +9,16 @@ h1 {
     font-size: 50px;
 }
 
+h3 {
+    color: brown;
+}
+
 .hcolor {
     color: coral;
 }
 
 
-section {
+.section-flex {
     display: flex;
 
 }
@@ -48,6 +52,40 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    margin-top: 5%;
+    margin-top: 1%;
 
+
+}
+
+.final-design {
+
+    width: 50%;
+    margin-left: 3.5%;
+
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding: 2%;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+
+.last-section {
+
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#box-1 {
+
+    border-left: 7px solid orange;
+
+}
+
+#box-2 {
+
+    border-left: 7px solid blue;
+}
+
+footer {
+    text-align: center;
 }
